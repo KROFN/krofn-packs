@@ -5,8 +5,8 @@
       "id": "krofn-test",
       "name": "KROFN Test Pack",
       "description": "Fabric 1.21.1 · тестовый пакет для проверки лаунчера",
-      "latestVersion": "1.0.0",
-      "manifestUrl": "https://github.com/KROFN/krofn-packs/releases/download/krofn-test-v1.0.0/krofn-test-manifest-v1.0.0.json"
+      "latestVersion": "1.0.1",
+      "manifestUrl": "https://github.com/KROFN/krofn-packs/releases/download/krofn-test-v1.0.1/krofn-test-manifest-v1.0.1.json"
     }
   ]
 }
